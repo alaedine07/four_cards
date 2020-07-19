@@ -1,2 +1,2 @@
 # four_cards
-four_cards from https://www.frontendmentor.io
+four_cards challenge from https://www.frontendmentor.io
